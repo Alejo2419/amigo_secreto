@@ -38,7 +38,7 @@ function mostrarAmigos() {
 }
 //funcion para sortear los amigos
 function sortearAmigo() {
-//verificar que exista por lo menos 1 elemento en la lista
+//verificar que existaN por lo menos 2 elementos en la lista
     if (amigosTodos.length <2) {
         alert ("Ingresa por lo menos 2 amigos para realizar el sorteo");
         return;
