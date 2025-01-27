@@ -1,0 +1,24 @@
+Proyecto Amigo Secreto
+Este proyecto implementa un sencillo sistema para realizar el sorteo del "Amigo Secreto".
+Permite agregar nombres, visualizarlos en una lista y luego realizar un sorteo aleatorio.
+
+Funcionalidades
+Agregar Amigos: Permite ingresar nombres de amigos a través de un campo de texto.
+Sorteo: Al hacer clic en el botón, selecciona aleatoriamente un nombre del arreglo de amigos y lo muestra como "Amigo Secreto".
+Reiniciar la Lista: Permite borrar todos los amigos de la lista y reiniciar el proceso.
+Requisitos
+Tener un navegador web para abrir el proyecto.
+El proyecto está hecho usando HTML, CSS y JavaScript.
+Instalación
+Descarga o clona este repositorio.
+Abre el archivo index.html en tu navegador web preferido.
+Estructura de Archivos
+index.html: El archivo principal que contiene la estructura de la página.
+style.css: Los estilos que dan diseño a la página.
+app.js: El archivo de JavaScript donde se maneja la lógica de la aplicación.
+Uso
+Ingresa los nombres de los amigos en el campo de texto y haz clic en "Añadir".
+Una vez que tengas al menos dos amigos en la lista, haz clic en "Sortear amigo" para obtener tu "Amigo Secreto".
+Si deseas reiniciar la lista, haz clic en "Reiniciar lista".
+
+Gracias por utilizar este proyecto.
